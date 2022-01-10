@@ -1,0 +1,30 @@
+id: afdcbc5ac03d47779e12d9c8901a3833
+annotation_type: index
+revision: '00001'
+annotations:
+  923c1f9ec19f4e4f9efbbca195b998c8:
+    work_id: JKYG1
+    parts:
+      0259df701bb044f0acf60c0e7ee90d42:
+        work_id: JKYG1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 609261
+    span:
+    - vol: 1
+      start: 0
+      end: 609261
+  49474baa2e354321a79b195b0ad899c8:
+    work_id: JKYG4
+    parts:
+      f548ccae8e024ddf8a634ff9d3d0cb07:
+        work_id: JKYG4-2
+        span:
+        - vol: 2
+          start: 0
+          end: 810
+    span:
+    - vol: 2
+      start: 0
+      end: 810
